@@ -1,4 +1,54 @@
 {
+  "Computer Science & Engineering": [
+    {
+      "designation": ["Professor"],
+      "name": "Dr. K.V. Madhu Murthy",
+      "phone": "(+91)-9490507218, (+91)-877-2249191",
+      "email": "kvmmurthy@svuce.org",
+      "details": "NA",
+      "imgurl": "https://raw.githubusercontent.com/SVUCE-Programmers/Svuce-App-Resources/master/Database/Staff%20Data/Staff%20Photos/CSE/madhu_murthy.jpeg"
+    },
+    {
+      "designation": ["Professor"],
+      "name": "Dr. P. Venkata Subba Reddy",
+      "phone": "(+91)-9849308146, (+91)-877-3204213",
+      "email": "vsrpoli@hotmail.com",
+      "details": "Dr.P.Venkata_Subba_Reddy.pdf",
+      "imgurl": "https://raw.githubusercontent.com/SVUCE-Programmers/Svuce-App-Resources/master/Database/Staff%20Data/Staff%20Photos/CSE/subba_reddy.jpeg"
+    },
+    {
+      "designation": ["Professor"],
+      "name": "Dr. Ch.D.V. Subba Rao",
+      "phone": "(+91)-9849879861, (+91)-877-2248930",
+      "email": "subbarao_chdv@hotmail.com",
+      "details": "Ch_D_V_Subba_Rao.pdf",
+      "imgurl": "https://raw.githubusercontent.com/SVUCE-Programmers/Svuce-App-Resources/master/Database/Staff%20Data/Staff%20Photos/CSE/subba_rao.jpeg"
+    },
+    {
+      "designation": ["Professor"],
+      "name": "Prof. M. Humera Khanam",
+      "phone": "(+91)-9490923045, 08772248810",
+      "email": "humera.svec@gmail.com",
+      "details": "Profile-MHK-21-7-2018.pdf",
+      "imgurl": "https://raw.githubusercontent.com/SVUCE-Programmers/Svuce-App-Resources/master/Database/Staff%20Data/Staff%20Photos/CSE/humera_khanam.jpeg"
+    },
+    {
+      "designation": ["Assistant Professor"],
+      "name": "Dr. N. Usha Rani",
+      "phone": "",
+      "email": "",
+      "details": "NA",
+      "imgurl": ""
+    },
+    {
+      "designation": ["Associate Professor"],
+      "name": "Dr. D. Vivekananda Reddy",
+      "phone": " (+91)-9441005225 ",
+      "email": "svuvivek@gmail.com",
+      "details": "NA",
+      "imgurl": "https://raw.githubusercontent.com/SVUCE-Programmers/Svuce-App-Resources/master/Database/Staff%20Data/Staff%20Photos/CSE/vivek.jpeg"
+    }
+  ],
   "Chemical Engineering": [
     {
       "designation": ["Assistant  Professor"],
@@ -343,56 +393,6 @@
       "email": " allampati_sr@rediffmail.com",
       "details": "MECH_ASR.pdf ",
       "imgurl": ""
-    }
-  ],
-  "Computer Science & Engineering": [
-    {
-      "designation": ["Professor"],
-      "name": "Dr. K.V. Madhu Murthy",
-      "phone": "(+91)-9490507218, (+91)-877-2249191",
-      "email": "kvmmurthy@svuce.org",
-      "details": "NA",
-      "imgurl": "https://raw.githubusercontent.com/shashiben/RepoToTestGitApi/master/Tools/Database/Staff%20Data/Staff%20Photos/CSE/madhu_murthy.jpeg"
-    },
-    {
-      "designation": ["Professor"],
-      "name": "Dr. P. Venkata Subba Reddy",
-      "phone": "(+91)-9849308146, (+91)-877-3204213",
-      "email": "vsrpoli@hotmail.com",
-      "details": "Dr.P.Venkata_Subba_Reddy.pdf",
-      "imgurl": "https://raw.githubusercontent.com/shashiben/RepoToTestGitApi/master/Tools/Database/Staff%20Data/Staff%20Photos/CSE/subba_reddy.jpeg"
-    },
-    {
-      "designation": ["Professor"],
-      "name": "Dr. Ch.D.V. Subba Rao",
-      "phone": "(+91)-9849879861, (+91)-877-2248930",
-      "email": "subbarao_chdv@hotmail.com",
-      "details": "Ch_D_V_Subba_Rao.pdf",
-      "imgurl": "https://raw.githubusercontent.com/shashiben/RepoToTestGitApi/master/Tools/Database/Staff%20Data/Staff%20Photos/CSE/subba_rao.jpeg"
-    },
-    {
-      "designation": ["Professor"],
-      "name": "Prof. M. Humera Khanam",
-      "phone": "(+91)-9490923045, 08772248810",
-      "email": "humera.svec@gmail.com",
-      "details": "Profile-MHK-21-7-2018.pdf",
-      "imgurl": "https://raw.githubusercontent.com/shashiben/RepoToTestGitApi/master/Tools/Database/Staff%20Data/Staff%20Photos/CSE/humera_khanam.jpeg"
-    },
-    {
-      "designation": ["Assistant Professor"],
-      "name": "Dr. N. Usha Rani",
-      "phone": "",
-      "email": "",
-      "details": "NA",
-      "imgurl": ""
-    },
-    {
-      "designation": ["Associate Professor"],
-      "name": "Dr. D. Vivekananda Reddy",
-      "phone": " (+91)-9441005225 ",
-      "email": "svuvivek@gmail.com",
-      "details": "NA",
-      "imgurl": "https://raw.githubusercontent.com/shashiben/RepoToTestGitApi/master/Tools/Database/Staff%20Data/Staff%20Photos/CSE/vivek.jpeg"
     }
   ]
 }
